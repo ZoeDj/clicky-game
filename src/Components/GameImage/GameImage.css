@@ -1,0 +1,15 @@
+.img-container {
+  border-radius: 2px;
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.img-container>img {
+  height: 100%;
+}
+
+img:hover {
+  opacity: 0.8;
+}
