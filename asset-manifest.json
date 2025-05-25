@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.89d2254f.css",
+    "main.js": "/clicky-game/static/js/main.6d6bec40.js",
+    "static/js/453.9b6bea71.chunk.js": "/clicky-game/static/js/453.9b6bea71.chunk.js",
+    "index.html": "/clicky-game/index.html",
+    "main.89d2254f.css.map": "/clicky-game/static/css/main.89d2254f.css.map",
+    "main.6d6bec40.js.map": "/clicky-game/static/js/main.6d6bec40.js.map",
+    "453.9b6bea71.chunk.js.map": "/clicky-game/static/js/453.9b6bea71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d2254f.css",
+    "static/js/main.6d6bec40.js"
+  ]
+}
