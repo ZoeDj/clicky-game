@@ -1,3 +1,4 @@
+import React from "react";
 import "./GameImage.css";
 
 function GameImage(props) {
